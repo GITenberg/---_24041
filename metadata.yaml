@@ -1,0 +1,31 @@
+_repo: '---_24041'
+_version: 0.1.0
+alternative_title: Luo Shen Fu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cao, Zhi
+    aliases:
+    - 曹植
+    - 曹值
+    birthdate: 192
+    deathdate: 232
+    gutenberg_agent_id: '26192'
+    url: http://www.gutenberg.org/2009/agents/26192
+    wikipedia: http://en.wikipedia.org/wiki/Cao_Zhi
+description: ''
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24041'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- 220-589'
+title: 洛神賦
+url: http://www.gutenberg.org/ebooks/24041
